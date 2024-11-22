@@ -1,0 +1,45 @@
+.top-padding {
+    padding-top: 60px;
+}
+
+.logo {
+    width: 200px;
+}
+
+.bg-main {
+    background-color: #ffde8a;
+}
+
+.custom-btn:hover {
+    color: var(--bs-dark);
+    background-color: #ffde8a;
+}
+
+.custom-light {
+    background-color: #f8f8f8
+}
+
+.photo-width {
+    width: 275px;
+}
+
+.custom-ul {
+    margin: 25px 0;
+}
+
+.custom-ul li{
+    display: inline;
+}
+
+.custom-ul li a {
+    text-decoration: none;
+    padding: 10px;
+}
+
+.david {
+    width: 380px;
+}
+
+.hover-underline:hover {
+    text-decoration: underline;
+}
